@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 75aa64e21db02ff479162dbeba5c8781
+timeCreated: 1508323058
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sk_12K_V3_Chest
+    100004: Sk_12K_V3_Head
+    100006: Sk_12K_V3_Hips
+    100008: Sk_12K_V3_LeftArm
+    100010: Sk_12K_V3_LeftEye
+    100012: Sk_12K_V3_LeftFoot
+    100014: Sk_12K_V3_LeftForeArm
+    100016: Sk_12K_V3_LeftHand_0
+    100018: Sk_12K_V3_LeftHandIndex2_5
+    100020: Sk_12K_V3_LeftHandIndex3_6
+    100022: Sk_12K_V3_LeftHandIndex4_4
+    100024: Sk_12K_V3_LeftHandMiddle2_8
+    100026: Sk_12K_V3_LeftHandMiddle3_9
+    100028: Sk_12K_V3_LeftHandMiddle4_7
+    100030: Sk_12K_V3_LeftHandPinky2_14
+    100032: Sk_12K_V3_LeftHandPinky3_15
+    100034: Sk_12K_V3_LeftHandPinky4_13
+    100036: Sk_12K_V3_LeftHandRing2_11
+    100038: Sk_12K_V3_LeftHandRing3_12
+    100040: Sk_12K_V3_LeftHandRing4_10
+    100042: Sk_12K_V3_LeftHandThumb2_2
+    100044: Sk_12K_V3_LeftHandThumb3_3
+    100046: Sk_12K_V3_LeftHandThumb4_1
+    100048: Sk_12K_V3_LeftLeg
+    100050: Sk_12K_V3_LeftShoulder
+    100052: Sk_12K_V3_LeftToes
+    100054: Sk_12K_V3_LeftUpLeg
+    100056: Sk_12K_V3_Neck
+    100058: Sk_12K_V3_Reference
+    100060: Sk_12K_V3_RightArm
+    100062: Sk_12K_V3_RightEye
+    100064: Sk_12K_V3_RightFoot
+    100066: Sk_12K_V3_RightForeArm
+    100068: Sk_12K_V3_RightHand
+    100070: Sk_12K_V3_RightHandIndex2
+    100072: Sk_12K_V3_RightHandIndex3
+    100074: Sk_12K_V3_RightHandIndex4
+    100076: Sk_12K_V3_RightHandMiddle2
+    100078: Sk_12K_V3_RightHandMiddle3
+    100080: Sk_12K_V3_RightHandMiddle4
+    100082: Sk_12K_V3_RightHandPinky2
+    100084: Sk_12K_V3_RightHandPinky3
+    100086: Sk_12K_V3_RightHandPinky4
+    100088: Sk_12K_V3_RightHandRing2
+    100090: Sk_12K_V3_RightHandRing3
+    100092: Sk_12K_V3_RightHandRing4
+    100094: Sk_12K_V3_RightHandThumb2
+    100096: Sk_12K_V3_RightHandThumb3
+    100098: Sk_12K_V3_RightHandThumb4
+    100100: Sk_12K_V3_RightLeg
+    100102: Sk_12K_V3_RightShoulder
+    100104: Sk_12K_V3_RightToes
+    100106: Sk_12K_V3_RightUpLeg
+    100108: Sk_12K_V3_Spine
+    100110: tete_41_1
+    400000: //RootNode
+    400002: Sk_12K_V3_Chest
+    400004: Sk_12K_V3_Head
+    400006: Sk_12K_V3_Hips
+    400008: Sk_12K_V3_LeftArm
+    400010: Sk_12K_V3_LeftEye
+    400012: Sk_12K_V3_LeftFoot
+    400014: Sk_12K_V3_LeftForeArm
+    400016: Sk_12K_V3_LeftHand_0
+    400018: Sk_12K_V3_LeftHandIndex2_5
+    400020: Sk_12K_V3_LeftHandIndex3_6
+    400022: Sk_12K_V3_LeftHandIndex4_4
+    400024: Sk_12K_V3_LeftHandMiddle2_8
+    400026: Sk_12K_V3_LeftHandMiddle3_9
+    400028: Sk_12K_V3_LeftHandMiddle4_7
+    400030: Sk_12K_V3_LeftHandPinky2_14
+    400032: Sk_12K_V3_LeftHandPinky3_15
+    400034: Sk_12K_V3_LeftHandPinky4_13
+    400036: Sk_12K_V3_LeftHandRing2_11
+    400038: Sk_12K_V3_LeftHandRing3_12
+    400040: Sk_12K_V3_LeftHandRing4_10
+    400042: Sk_12K_V3_LeftHandThumb2_2
+    400044: Sk_12K_V3_LeftHandThumb3_3
+    400046: Sk_12K_V3_LeftHandThumb4_1
+    400048: Sk_12K_V3_LeftLeg
+    400050: Sk_12K_V3_LeftShoulder
+    400052: Sk_12K_V3_LeftToes
+    400054: Sk_12K_V3_LeftUpLeg
+    400056: Sk_12K_V3_Neck
+    400058: Sk_12K_V3_Reference
+    400060: Sk_12K_V3_RightArm
+    400062: Sk_12K_V3_RightEye
+    400064: Sk_12K_V3_RightFoot
+    400066: Sk_12K_V3_RightForeArm
+    400068: Sk_12K_V3_RightHand
+    400070: Sk_12K_V3_RightHandIndex2
+    400072: Sk_12K_V3_RightHandIndex3
+    400074: Sk_12K_V3_RightHandIndex4
+    400076: Sk_12K_V3_RightHandMiddle2
+    400078: Sk_12K_V3_RightHandMiddle3
+    400080: Sk_12K_V3_RightHandMiddle4
+    400082: Sk_12K_V3_RightHandPinky2
+    400084: Sk_12K_V3_RightHandPinky3
+    400086: Sk_12K_V3_RightHandPinky4
+    400088: Sk_12K_V3_RightHandRing2
+    400090: Sk_12K_V3_RightHandRing3
+    400092: Sk_12K_V3_RightHandRing4
+    400094: Sk_12K_V3_RightHandThumb2
+    400096: Sk_12K_V3_RightHandThumb3
+    400098: Sk_12K_V3_RightHandThumb4
+    400100: Sk_12K_V3_RightLeg
+    400102: Sk_12K_V3_RightShoulder
+    400104: Sk_12K_V3_RightToes
+    400106: Sk_12K_V3_RightUpLeg
+    400108: Sk_12K_V3_Spine
+    400110: tete_41_1
+    4300000: tete_41_1
+    7400000: CINEMA_4D_Principal
+    9500000: //RootNode
+    13700000: tete_41_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

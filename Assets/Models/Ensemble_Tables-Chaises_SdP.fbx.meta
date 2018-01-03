@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: bd1b8d8fc7ffcab4eb8d72d334bc42d0
+timeCreated: 1477553337
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChaiseSdP_Blanche
+    100002: ChaiseSdP_Blanche_2
+    100004: ChaiseSdP_Bleue
+    100006: ChaiseSdP_Bleue_2
+    100008: ChaiseSdP_Bleue_3
+    100010: ChaiseSdP_Jaune
+    100012: ChaiseSdP_Jaune_2
+    100014: ChaiseSdP_Jaune_3
+    100016: ChaiseSdP_Noir
+    100018: ChaiseSdP_Noir_2
+    100020: ChaiseSdP_Noir_3
+    100022: ChaiseSdP_Orange
+    100024: ChaiseSdP_Orange_2
+    100026: ChaiseSdP_Rouge
+    100028: ChaiseSdP_Rouge_2
+    100030: //RootNode
+    100032: PetiteTableSdP
+    100034: PetiteTableSdP_1
+    100036: PetiteTableSdP_2
+    100038: PetiteTableSdP_3
+    100040: PetiteTableSdP_4
+    100042: Table
+    100044: Table_2
+    100046: Table_3
+    100048: Table_4
+    100050: Table_5
+    100052: ChaiseSdP
+    100054: ChaiseSdP_2
+    100056: ChaiseSdP_3
+    100058: ChaiseSdP_4
+    100060: ChaiseSdP_5
+    400000: ChaiseSdP_Blanche
+    400002: ChaiseSdP_Blanche_2
+    400004: ChaiseSdP_Bleue
+    400006: ChaiseSdP_Bleue_2
+    400008: ChaiseSdP_Bleue_3
+    400010: ChaiseSdP_Jaune
+    400012: ChaiseSdP_Jaune_2
+    400014: ChaiseSdP_Jaune_3
+    400016: ChaiseSdP_Noir
+    400018: ChaiseSdP_Noir_2
+    400020: ChaiseSdP_Noir_3
+    400022: ChaiseSdP_Orange
+    400024: ChaiseSdP_Orange_2
+    400026: ChaiseSdP_Rouge
+    400028: ChaiseSdP_Rouge_2
+    400030: //RootNode
+    400032: PetiteTableSdP
+    400034: PetiteTableSdP_1
+    400036: PetiteTableSdP_2
+    400038: PetiteTableSdP_3
+    400040: PetiteTableSdP_4
+    400042: Table
+    400044: Table_2
+    400046: Table_3
+    400048: Table_4
+    400050: Table_5
+    400052: ChaiseSdP
+    400054: ChaiseSdP_2
+    400056: ChaiseSdP_3
+    400058: ChaiseSdP_4
+    400060: ChaiseSdP_5
+    2300000: ChaiseSdP_Blanche
+    2300002: ChaiseSdP_Blanche_2
+    2300004: ChaiseSdP_Bleue
+    2300006: ChaiseSdP_Bleue_2
+    2300008: ChaiseSdP_Bleue_3
+    2300010: ChaiseSdP_Jaune
+    2300012: ChaiseSdP_Jaune_2
+    2300014: ChaiseSdP_Jaune_3
+    2300016: ChaiseSdP_Noir
+    2300018: ChaiseSdP_Noir_2
+    2300020: ChaiseSdP_Noir_3
+    2300022: ChaiseSdP_Orange
+    2300024: ChaiseSdP_Orange_2
+    2300026: ChaiseSdP_Rouge
+    2300028: ChaiseSdP_Rouge_2
+    2300030: Table
+    2300032: Table_2
+    2300034: Table_3
+    2300036: Table_4
+    2300038: Table_5
+    2300040: ChaiseSdP
+    2300042: ChaiseSdP_2
+    2300044: ChaiseSdP_3
+    2300046: ChaiseSdP_4
+    2300048: ChaiseSdP_5
+    3300000: ChaiseSdP_Blanche
+    3300002: ChaiseSdP_Blanche_2
+    3300004: ChaiseSdP_Bleue
+    3300006: ChaiseSdP_Bleue_2
+    3300008: ChaiseSdP_Bleue_3
+    3300010: ChaiseSdP_Jaune
+    3300012: ChaiseSdP_Jaune_2
+    3300014: ChaiseSdP_Jaune_3
+    3300016: ChaiseSdP_Noir
+    3300018: ChaiseSdP_Noir_2
+    3300020: ChaiseSdP_Noir_3
+    3300022: ChaiseSdP_Orange
+    3300024: ChaiseSdP_Orange_2
+    3300026: ChaiseSdP_Rouge
+    3300028: ChaiseSdP_Rouge_2
+    3300030: Table
+    3300032: Table_2
+    3300034: Table_3
+    3300036: Table_4
+    3300038: Table_5
+    3300040: ChaiseSdP
+    3300042: ChaiseSdP_2
+    3300044: ChaiseSdP_3
+    3300046: ChaiseSdP_4
+    3300048: ChaiseSdP_5
+    4300000: ChaiseSdP_Orange
+    4300002: ChaiseSdP_Bleue
+    4300004: ChaiseSdP_Blanche
+    4300006: Table
+    4300008: ChaiseSdP_Orange_2
+    4300010: ChaiseSdP_Blanche_2
+    4300012: ChaiseSdP_Noir
+    4300014: Table_2
+    4300016: ChaiseSdP_Bleue_2
+    4300018: ChaiseSdP_Jaune
+    4300020: ChaiseSdP_Noir_2
+    4300022: Table_3
+    4300024: ChaiseSdP_Bleue_3
+    4300026: ChaiseSdP_Rouge
+    4300028: ChaiseSdP_Jaune_2
+    4300030: Table_4
+    4300032: ChaiseSdP_Rouge_2
+    4300034: ChaiseSdP_Jaune_3
+    4300036: ChaiseSdP_Noir_3
+    4300038: Table_5
+    4300040: ChaiseSdP
+    4300042: ChaiseSdP_2
+    4300044: ChaiseSdP_3
+    4300046: ChaiseSdP_4
+    4300048: ChaiseSdP_5
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

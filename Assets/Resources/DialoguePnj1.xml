@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SB_Three xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sNodes>
+    <SB_Serialized_Node>
+      <type>SpeakBox.SBN_Start</type>
+      <id>1</id>
+      <next>2</next>
+    </SB_Serialized_Node>
+    <SB_Serialized_Node>
+      <type>SpeakBox.SBN_Texte_Localize</type>
+      <id>2</id>
+      <strValue>DIALOGUE_PNJ1_T1</strValue>
+      <symultanee />
+    </SB_Serialized_Node>
+  </sNodes>
+  <editorDatas>//Xml Three created with My Speak Box Beta 0.01 
+// My Speak Box (c) Lostyn  Note : Altering this data may prevent you from opening it in My Speak Box Unity editor 
+/*SB_DATA;ver:0.01;sub:START;n:type:SpeakBox.SBN_Start,id:1,x:32146,y:32411|Start-2-OUT;n:type:SpeakBox.SBN_Texte_Localize,id:2,x:32334,y:32414,text:RABJAEEATABPAEcAVQBFAF8AUABOAEoAMQBfAFQAMQA=,tname:Text_node_2,width:247,height:112;sub:END;*/</editorDatas>
+  <Path>Assets/Dialogues/DialoguePnj1.xml</Path>
+</SB_Three>

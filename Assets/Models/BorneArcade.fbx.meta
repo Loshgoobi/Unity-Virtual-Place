@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 27fe43a23121a7a4ab3e4fff6aa1113e
+timeCreated: 1477553327
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BorneArcade
+    100004: Cylindre
+    100006: Cylindre_1
+    100008: Cylindre_1_2
+    100010: Cylindre_2
+    100012: Cylindre_2_2
+    100014: Cylindre_2_3
+    100016: Cylindre_3
+    100018: Cylindre_3_2
+    100020: Cylindre_4
+    100022: Cylindre_4_2
+    100024: Cylindre_5
+    100026: Cylindre_5_2
+    100028: Enceinte1
+    100030: Enceinte1_1
+    100032: Joueur1
+    100034: Joueur2
+    100036: Manette1
+    100038: Manette1_2
+    400000: //RootNode
+    400002: BorneArcade
+    400004: Cylindre
+    400006: Cylindre_1
+    400008: Cylindre_1_2
+    400010: Cylindre_2
+    400012: Cylindre_2_2
+    400014: Cylindre_2_3
+    400016: Cylindre_3
+    400018: Cylindre_3_2
+    400020: Cylindre_4
+    400022: Cylindre_4_2
+    400024: Cylindre_5
+    400026: Cylindre_5_2
+    400028: Enceinte1
+    400030: Enceinte1_1
+    400032: Joueur1
+    400034: Joueur2
+    400036: Manette1
+    400038: Manette1_2
+    2300000: BorneArcade
+    2300002: Cylindre
+    2300004: Cylindre_1
+    2300006: Cylindre_1_2
+    2300008: Cylindre_2
+    2300010: Cylindre_2_2
+    2300012: Cylindre_2_3
+    2300014: Cylindre_3
+    2300016: Cylindre_3_2
+    2300018: Cylindre_4
+    2300020: Cylindre_4_2
+    2300022: Cylindre_5
+    2300024: Cylindre_5_2
+    2300026: Enceinte1
+    2300028: Enceinte1_1
+    2300030: Manette1
+    2300032: Manette1_2
+    3300000: BorneArcade
+    3300002: Cylindre
+    3300004: Cylindre_1
+    3300006: Cylindre_1_2
+    3300008: Cylindre_2
+    3300010: Cylindre_2_2
+    3300012: Cylindre_2_3
+    3300014: Cylindre_3
+    3300016: Cylindre_3_2
+    3300018: Cylindre_4
+    3300020: Cylindre_4_2
+    3300022: Cylindre_5
+    3300024: Cylindre_5_2
+    3300026: Enceinte1
+    3300028: Enceinte1_1
+    3300030: Manette1
+    3300032: Manette1_2
+    4300000: BorneArcade
+    4300002: Manette1
+    4300004: Cylindre
+    4300006: Cylindre_1
+    4300008: Cylindre_2
+    4300010: Cylindre_3
+    4300012: Cylindre_4
+    4300014: Cylindre_5
+    4300016: Manette1_2
+    4300018: Cylindre_2_2
+    4300020: Cylindre_1_2
+    4300022: Cylindre_2_3
+    4300024: Cylindre_3_2
+    4300026: Cylindre_4_2
+    4300028: Cylindre_5_2
+    4300030: Enceinte1
+    4300032: Enceinte1_1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

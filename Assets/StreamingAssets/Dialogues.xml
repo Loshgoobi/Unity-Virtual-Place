@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DialogueContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <listDialogues>
+    <DialogueData nomPnj="NOM">
+      <Id>0</Id>
+      <textes>
+        <texte>TEXTE 1</texte>
+        <texte>Texte supp</texte>
+      </textes>
+    </DialogueData>
+  </listDialogues>
+</DialogueContainer>

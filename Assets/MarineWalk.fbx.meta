@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 0d4fae4cf136c2644a5e7f6d5f5a9877
+timeCreated: 1507304324
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Editeur_Cinema_4D
+    100002: //RootNode
+    100004: perso_mecanic
+    100006: Sk_12K_V3_Chest
+    100008: Sk_12K_V3_Head
+    100010: Sk_12K_V3_Hips
+    100012: Sk_12K_V3_LeftArm
+    100014: Sk_12K_V3_LeftEye
+    100016: Sk_12K_V3_LeftFoot
+    100018: Sk_12K_V3_LeftForeArm
+    100020: Sk_12K_V3_LeftHand_0
+    100022: Sk_12K_V3_LeftHandIndex2_5
+    100024: Sk_12K_V3_LeftHandIndex3_6
+    100026: Sk_12K_V3_LeftHandIndex4_4
+    100028: Sk_12K_V3_LeftHandMiddle2_8
+    100030: Sk_12K_V3_LeftHandMiddle3_9
+    100032: Sk_12K_V3_LeftHandMiddle4_7
+    100034: Sk_12K_V3_LeftHandPinky2_14
+    100036: Sk_12K_V3_LeftHandPinky3_15
+    100038: Sk_12K_V3_LeftHandPinky4_13
+    100040: Sk_12K_V3_LeftHandRing2_11
+    100042: Sk_12K_V3_LeftHandRing3_12
+    100044: Sk_12K_V3_LeftHandRing4_10
+    100046: Sk_12K_V3_LeftHandThumb2_2
+    100048: Sk_12K_V3_LeftHandThumb3_3
+    100050: Sk_12K_V3_LeftHandThumb4_1
+    100052: Sk_12K_V3_LeftLeg
+    100054: Sk_12K_V3_LeftShoulder
+    100056: Sk_12K_V3_LeftToes
+    100058: Sk_12K_V3_LeftUpLeg
+    100060: Sk_12K_V3_Neck
+    100062: Sk_12K_V3_Reference
+    100064: Sk_12K_V3_RightArm
+    100066: Sk_12K_V3_RightEye
+    100068: Sk_12K_V3_RightFoot
+    100070: Sk_12K_V3_RightForeArm
+    100072: Sk_12K_V3_RightHand
+    100074: Sk_12K_V3_RightHandIndex2
+    100076: Sk_12K_V3_RightHandIndex3
+    100078: Sk_12K_V3_RightHandIndex4
+    100080: Sk_12K_V3_RightHandMiddle2
+    100082: Sk_12K_V3_RightHandMiddle3
+    100084: Sk_12K_V3_RightHandMiddle4
+    100086: Sk_12K_V3_RightHandPinky2
+    100088: Sk_12K_V3_RightHandPinky3
+    100090: Sk_12K_V3_RightHandPinky4
+    100092: Sk_12K_V3_RightHandRing2
+    100094: Sk_12K_V3_RightHandRing3
+    100096: Sk_12K_V3_RightHandRing4
+    100098: Sk_12K_V3_RightHandThumb2
+    100100: Sk_12K_V3_RightHandThumb3
+    100102: Sk_12K_V3_RightHandThumb4
+    100104: Sk_12K_V3_RightLeg
+    100106: Sk_12K_V3_RightShoulder
+    100108: Sk_12K_V3_RightToes
+    100110: Sk_12K_V3_RightUpLeg
+    100112: Sk_12K_V3_Spine
+    100114: tete_41_1
+    400000: Editeur_Cinema_4D
+    400002: //RootNode
+    400004: perso_mecanic
+    400006: Sk_12K_V3_Chest
+    400008: Sk_12K_V3_Head
+    400010: Sk_12K_V3_Hips
+    400012: Sk_12K_V3_LeftArm
+    400014: Sk_12K_V3_LeftEye
+    400016: Sk_12K_V3_LeftFoot
+    400018: Sk_12K_V3_LeftForeArm
+    400020: Sk_12K_V3_LeftHand_0
+    400022: Sk_12K_V3_LeftHandIndex2_5
+    400024: Sk_12K_V3_LeftHandIndex3_6
+    400026: Sk_12K_V3_LeftHandIndex4_4
+    400028: Sk_12K_V3_LeftHandMiddle2_8
+    400030: Sk_12K_V3_LeftHandMiddle3_9
+    400032: Sk_12K_V3_LeftHandMiddle4_7
+    400034: Sk_12K_V3_LeftHandPinky2_14
+    400036: Sk_12K_V3_LeftHandPinky3_15
+    400038: Sk_12K_V3_LeftHandPinky4_13
+    400040: Sk_12K_V3_LeftHandRing2_11
+    400042: Sk_12K_V3_LeftHandRing3_12
+    400044: Sk_12K_V3_LeftHandRing4_10
+    400046: Sk_12K_V3_LeftHandThumb2_2
+    400048: Sk_12K_V3_LeftHandThumb3_3
+    400050: Sk_12K_V3_LeftHandThumb4_1
+    400052: Sk_12K_V3_LeftLeg
+    400054: Sk_12K_V3_LeftShoulder
+    400056: Sk_12K_V3_LeftToes
+    400058: Sk_12K_V3_LeftUpLeg
+    400060: Sk_12K_V3_Neck
+    400062: Sk_12K_V3_Reference
+    400064: Sk_12K_V3_RightArm
+    400066: Sk_12K_V3_RightEye
+    400068: Sk_12K_V3_RightFoot
+    400070: Sk_12K_V3_RightForeArm
+    400072: Sk_12K_V3_RightHand
+    400074: Sk_12K_V3_RightHandIndex2
+    400076: Sk_12K_V3_RightHandIndex3
+    400078: Sk_12K_V3_RightHandIndex4
+    400080: Sk_12K_V3_RightHandMiddle2
+    400082: Sk_12K_V3_RightHandMiddle3
+    400084: Sk_12K_V3_RightHandMiddle4
+    400086: Sk_12K_V3_RightHandPinky2
+    400088: Sk_12K_V3_RightHandPinky3
+    400090: Sk_12K_V3_RightHandPinky4
+    400092: Sk_12K_V3_RightHandRing2
+    400094: Sk_12K_V3_RightHandRing3
+    400096: Sk_12K_V3_RightHandRing4
+    400098: Sk_12K_V3_RightHandThumb2
+    400100: Sk_12K_V3_RightHandThumb3
+    400102: Sk_12K_V3_RightHandThumb4
+    400104: Sk_12K_V3_RightLeg
+    400106: Sk_12K_V3_RightShoulder
+    400108: Sk_12K_V3_RightToes
+    400110: Sk_12K_V3_RightUpLeg
+    400112: Sk_12K_V3_Spine
+    400114: tete_41_1
+    2000000: Editeur_Cinema_4D
+    4300000: tete_41_1
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: tete_41_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

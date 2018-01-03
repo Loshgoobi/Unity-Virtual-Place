@@ -1,0 +1,13 @@
+﻿BONJOUR=Hello, I would like to test this new dialogue system if you have a time?
+REP1_1=Yes of course!
+REP1_2=No sorry.
+REP1_3=And then what??
+TANTPIS=thank you anyway!
+POLI=You can be polite ...
+SUPER=Super I'll ask a question to get started!
+QUESTION=You understand or I restart from the beginning?
+REP2_1=Yes
+REP2_2=Euh...
+REP2_3=No restart please !
+MERCI=Thank you very much for your time.
+AHH=Ahhh! uh ... well! I think I'll start again.

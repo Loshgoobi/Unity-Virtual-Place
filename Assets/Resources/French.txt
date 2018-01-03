@@ -1,0 +1,13 @@
+﻿BONJOUR=Bonjour, \nJ'aimerais tester ce nouveau système de dialogue si vous avez le temps ?
+REP1_1=Oui bien sûr !
+REP1_2=Non désolé.
+REP1_3=Et puis quoi encore ???
+TANTPIS=Tant pis merci !
+POLI=Vous pourriez rester courtois...
+SUPER=Super je vais vous posez une question pour commencer !
+QUESTION=Vous avez compris ou je recommence du début ?
+REP2_1=Oui.
+REP2_2=Euh...
+REP2_3=Non recommencer !
+MERCI=Très bien merci de votre temps.
+AHH=Ahhh ! euh... bien ! \nJe crois que je vais recommencer.

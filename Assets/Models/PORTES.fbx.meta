@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 522b9d3b71b3bc246a1713cddedb9247
+timeCreated: 1484061734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DoublePorte
+    100002: DoublePorte_1
+    100004: DoublePorte_2
+    100006: DoublePorte_3
+    100008: DoublePorte_4
+    100010: DoublePorte_5
+    100012: DoublePorte_6
+    100014: DoublePorte_7
+    100016: DoublePorte_8
+    100018: grande_porte_2
+    100020: grande_porte_2_2
+    100022: grande_porte_2_3
+    100024: grande_porte_2_4
+    100026: grande_porte_2_5
+    100028: grande_porte_2_6
+    100030: grande_porte_2_7
+    100032: grande_porte_2_8
+    100034: grande_porte_2_9
+    100036: Petite_porte
+    100038: Petite_porte_1
+    100040: petite_porte_1
+    100042: petite_porte_1_2
+    100044: petite_porte_1_3
+    100046: petite_porte_1_4
+    100048: petite_porte_1_5
+    100050: petite_porte_1_6
+    100052: petite_porte_1_7
+    100054: petite_porte_1_8
+    100056: petite_porte_1_9
+    100058: Petite_porte_2
+    100060: Petite_porte_3
+    100062: Petite_porte_4
+    100064: Petite_porte_5
+    100066: //RootNode
+    400000: DoublePorte
+    400002: DoublePorte_1
+    400004: DoublePorte_2
+    400006: DoublePorte_3
+    400008: DoublePorte_4
+    400010: DoublePorte_5
+    400012: DoublePorte_6
+    400014: DoublePorte_7
+    400016: DoublePorte_8
+    400018: grande_porte_2
+    400020: grande_porte_2_2
+    400022: grande_porte_2_3
+    400024: grande_porte_2_4
+    400026: grande_porte_2_5
+    400028: grande_porte_2_6
+    400030: grande_porte_2_7
+    400032: grande_porte_2_8
+    400034: grande_porte_2_9
+    400036: Petite_porte
+    400038: Petite_porte_1
+    400040: petite_porte_1
+    400042: petite_porte_1_2
+    400044: petite_porte_1_3
+    400046: petite_porte_1_4
+    400048: petite_porte_1_5
+    400050: petite_porte_1_6
+    400052: petite_porte_1_7
+    400054: petite_porte_1_8
+    400056: petite_porte_1_9
+    400058: Petite_porte_2
+    400060: Petite_porte_3
+    400062: Petite_porte_4
+    400064: Petite_porte_5
+    400066: //RootNode
+    2300000: grande_porte_2
+    2300002: grande_porte_2_2
+    2300004: grande_porte_2_3
+    2300006: grande_porte_2_4
+    2300008: grande_porte_2_5
+    2300010: grande_porte_2_6
+    2300012: grande_porte_2_7
+    2300014: grande_porte_2_8
+    2300016: grande_porte_2_9
+    2300018: Petite_porte
+    2300020: Petite_porte_1
+    2300022: petite_porte_1
+    2300024: petite_porte_1_2
+    2300026: petite_porte_1_3
+    2300028: petite_porte_1_4
+    2300030: petite_porte_1_5
+    2300032: petite_porte_1_6
+    2300034: petite_porte_1_7
+    2300036: petite_porte_1_8
+    2300038: petite_porte_1_9
+    2300040: Petite_porte_2
+    2300042: Petite_porte_3
+    2300044: Petite_porte_4
+    2300046: Petite_porte_5
+    3300000: grande_porte_2
+    3300002: grande_porte_2_2
+    3300004: grande_porte_2_3
+    3300006: grande_porte_2_4
+    3300008: grande_porte_2_5
+    3300010: grande_porte_2_6
+    3300012: grande_porte_2_7
+    3300014: grande_porte_2_8
+    3300016: grande_porte_2_9
+    3300018: Petite_porte
+    3300020: Petite_porte_1
+    3300022: petite_porte_1
+    3300024: petite_porte_1_2
+    3300026: petite_porte_1_3
+    3300028: petite_porte_1_4
+    3300030: petite_porte_1_5
+    3300032: petite_porte_1_6
+    3300034: petite_porte_1_7
+    3300036: petite_porte_1_8
+    3300038: petite_porte_1_9
+    3300040: Petite_porte_2
+    3300042: Petite_porte_3
+    3300044: Petite_porte_4
+    3300046: Petite_porte_5
+    4300000: petite_porte_1
+    4300002: grande_porte_2
+    4300004: petite_porte_1_2
+    4300006: grande_porte_2_2
+    4300008: petite_porte_1_3
+    4300010: grande_porte_2_3
+    4300012: petite_porte_1_4
+    4300014: grande_porte_2_4
+    4300016: petite_porte_1_5
+    4300018: grande_porte_2_5
+    4300020: petite_porte_1_6
+    4300022: grande_porte_2_6
+    4300024: petite_porte_1_7
+    4300026: grande_porte_2_7
+    4300028: petite_porte_1_8
+    4300030: grande_porte_2_8
+    4300032: petite_porte_1_9
+    4300034: grande_porte_2_9
+    4300036: Petite_porte_3
+    4300038: Petite_porte_2
+    4300040: Petite_porte
+    4300042: Petite_porte_1
+    4300044: Petite_porte_4
+    4300046: Petite_porte_5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
